@@ -1,5 +1,6 @@
 {
-  "name": "ruby",
+  "homepage": ".",
+  "name": "Ruby NFT Marketplace",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
